@@ -1,0 +1,36 @@
+.welcome{
+    padding: 50px 50px;
+    text-align: center;
+}
+
+#aboutstudio
+{
+    width: 100%;
+    background-color:#e5e5e5;
+}
+
+.footerlinks li{
+    display: inline;
+}
+.footerlinks ul li:after{
+    content: '/';
+    display: inline;
+    padding: 0 5px;
+}
+.footerlinks ul li:last-child:after{
+    display: none;
+}
+#aboutstudio img{
+    
+    float: left;
+    padding-right: 34px;
+    padding-bottom: 20px;
+}
+.projectsection{
+    padding-bottom: 96px;
+}
+.footerlinks{
+    padding-top: 30px;
+    margin-bottom: 30px;
+    
+}
